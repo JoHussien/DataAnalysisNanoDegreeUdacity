@@ -1,0 +1,1 @@
+This folder contains the data used by the bikeshare.py script. There are three files, each of them is a dataset for a different city.
